@@ -1,6 +1,6 @@
 # Chipotle Restaurants Prediction
 
-(https://user-images.githubusercontent.com/61334264/136755971-6fa027bd-9d82-42e2-b4d5-b5df33a75019.png)
+![ChipotleRestaurantsViz](https://user-images.githubusercontent.com/61334264/136755971-6fa027bd-9d82-42e2-b4d5-b5df33a75019.png)
 
 > Click to View Demo.
 

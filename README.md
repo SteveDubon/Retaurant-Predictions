@@ -28,18 +28,18 @@ Created a linear regression model to predict which county in Maryland would be t
 
 
 
-[Back To The Top](#maryland-covid19-webapp)
+[Back To The Top](#chipotle-restaurants-prediction)
 
 ---
 
 ## How To Use
 
-#### Jupyter Notebook
+#### Jupyter Notebook (Code)
 - Download the [ChipotlePrediction File](https://github.com/SteveDubon/Retaurant-Predictions/blob/main/ChipotlePrediction.ipynb)
 - Run the Notebook 
 
 
-[Back To The Top](#maryland-covid19-webapp)
+[Back To The Top](#chipotle-restaurants-prediction)
 
 ---
 
@@ -60,7 +60,7 @@ Created a linear regression model to predict which county in Maryland would be t
 
 
 
-[Back To The Top](#maryland-covid19-webapp)
+[Back To The Top](#chipotle-restaurants-prediction)
 
 ---
 
@@ -84,7 +84,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#maryland-covid19-webapp)
+[Back To The Top](#chipotle-restaurants-prediction)
 
 ---
 
@@ -93,4 +93,4 @@ SOFTWARE.
 
 - <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn - [@SDubon](https://www.linkedin.com/in/sdubon/)
 
-[Back To The Top](#maryland-covid19-webapp)
+[Back To The Top](#chipotle-restaurants-prediction)

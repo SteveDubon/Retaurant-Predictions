@@ -1,6 +1,6 @@
 # Chipotle Restaurants Prediction
 
-https://user-images.githubusercontent.com/61334264/136755971-6fa027bd-9d82-42e2-b4d5-b5df33a75019.png
+(https://user-images.githubusercontent.com/61334264/136755971-6fa027bd-9d82-42e2-b4d5-b5df33a75019.png)
 
 > Click to View Demo.
 
@@ -17,8 +17,8 @@ https://user-images.githubusercontent.com/61334264/136755971-6fa027bd-9d82-42e2-
 ---
 
 ## Description
-Created a linear regression predictions to see 
-Designed and developed a web app to display and visualize the impact of Covid-19 in every county from the state of Maryland. Used different Python packages and libraries to collect, clean and analyze the data.
+
+Created a linear regression model to predict which county in Maryland would be the best location to build the next Chipotle restaurant. Also, designed an animated video to help visualiaze the data. Disclaimer: This project is in no way affiliated with Chipotle, this is just a personal project.
 
 #### Technologies
 
@@ -34,23 +34,29 @@ Designed and developed a web app to display and visualize the impact of Covid-19
 
 ## How To Use
 
-#### Libraies
-- <img align="left" alt="Pandas" width="20px" src="https://user-images.githubusercontent.com/61334264/130188413-3a31e183-552b-4330-93a9-8077f04e5057.png" /> Pandas
-- <img align="left" alt="Plotly" width="26px" src="https://user-images.githubusercontent.com/61334264/120239674-c5ee2400-c22c-11eb-8b9b-4c86090b5316.jpeg" /> Dash by Plotly
-
-#### Code
-- <img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" />CLick to View Full Script:  [Code](https://github.com/SteveDubon/Maryland-Covid19/blob/master/Maryland-Covid19.py)
-
+#### Jupyter Notebook
+- Download the [ChipotlePrediction File](https://github.com/SteveDubon/Retaurant-Predictions/blob/main/ChipotlePrediction.ipynb)
+- Run the Notebook 
 
 
 [Back To The Top](#maryland-covid19-webapp)
 
 ---
 
-## References
-![Project Image](https://user-images.githubusercontent.com/61334264/130184607-aa1dcfba-6cac-4f35-ba3e-906c4d1af524.jpg)
+## Snapshots
+
+#### Current Locations
+![Query1](https://user-images.githubusercontent.com/61334264/136762782-8056c37b-3518-48b1-bcf9-892b7c9ca333.png)
 <br />
-> <img align="left" alt="Bulb" width="26px" src="https://user-images.githubusercontent.com/61334264/120241022-f84d5080-c22f-11eb-8780-9485dcf7a19c.png" />CLick to View Project:  [Opioid Epidemic](https://dash-gallery.plotly.host/dash-opioid-epidemic/)
+#### Current Locations (HeatMap)
+![Query2](https://user-images.githubusercontent.com/61334264/136762781-a103d769-3d86-4450-b86c-345c49316e14.png)
+<br />
+#### Number of restaurants Compared to House Income 
+![Query3](https://user-images.githubusercontent.com/61334264/136762784-5c3d482d-1f63-43fc-92b9-eee9e0fb29bc.png)
+<br />
+#### Where Should Chipotle Build the Next Restaurant?
+![Query5](https://user-images.githubusercontent.com/61334264/136762783-a7972a1a-9a52-4aa0-a77c-96c89da44dc8.png)
+
 
 
 
